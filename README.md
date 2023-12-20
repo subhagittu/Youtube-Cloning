@@ -3,7 +3,7 @@
 <br>
 This is a YouTube clone developed using React JS, Tailwind CSS, and the YouTube API provided by RapidAPI. The main objective of this project is to replicate the core features and functionalities of the popular video-sharing platform, YouTube. Users can utilize this clone to search for videos, watch them, and enjoy a seamless playback experience. By leveraging the power of React JS and Tailwind CSS, the user interface is designed to be intuitive and user-friendly, offering a familiar experience similar to YouTube. 
 <br> <br>
-<b>A live demo of the YouTube clone can be found at</b> <a href="https://indranath165-youtube-clone.netlify.app/" target="_blank">https://indranath165-youtube-clone.netlify.app/</a>.
+
 <h2>Features</h2>
 <ul>
     <li>Search for videos by keywords</li>

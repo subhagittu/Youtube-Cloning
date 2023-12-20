@@ -1,5 +1,5 @@
 <h1>YouTube-Clone</h1>
-<img width="960" alt="yt_clone" src="https://github.com/Indranath165/YouTube-Clone/assets/121590717/d641a16d-c2c4-4ca1-a4a2-c664d9a1d09a">
+
 <br>
 This is a YouTube clone developed using React JS, Tailwind CSS, and the YouTube API provided by RapidAPI. The main objective of this project is to replicate the core features and functionalities of the popular video-sharing platform, YouTube. Users can utilize this clone to search for videos, watch them, and enjoy a seamless playback experience. By leveraging the power of React JS and Tailwind CSS, the user interface is designed to be intuitive and user-friendly, offering a familiar experience similar to YouTube. 
 <br> <br>
